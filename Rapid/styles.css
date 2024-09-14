@@ -1,0 +1,58 @@
+.one{
+    height: 200px;
+    background-color: blue;
+}
+
+.two{
+    font-size: 18px;
+    color: darkgray;
+}
+/* .three{
+   color: green; 
+} */
+
+h1,h2,h3,h4,h5,h6{
+    color: green;
+}
+
+.four{
+    border: 4px solid blue;
+}
+.five{
+    /* padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 7px; */
+    padding: 10px 15px 20px 30px;
+}
+img{
+     border-radius: 50%;
+     height: 300px;
+     width: 300px;
+}
+.seven{
+    width: 300px;
+    margin: auto;
+}
+div p{
+    color: purple;
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color: pink;
+    margin: auto;
+    margin-top: 10px;
+    border: 2px solid red;
+    border-radius: 30%;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: red;
+}
+.btn:active{
+    background-color: blue;
+}

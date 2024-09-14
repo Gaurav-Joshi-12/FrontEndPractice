@@ -1,0 +1,30 @@
+.ribbon{
+    background-color: black;
+    height: 70px;
+    border: 3px solid yellow;
+    color: white;
+    padding-left: 10px;
+}
+
+/* reset styled */
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#logoheading{
+    font-family: "Playwrite CU";
+}
+
+.container{
+    margin: 10px;
+}
+
+.Post{
+    margin: auto;
+    width: 400px;
+    
+}
+
